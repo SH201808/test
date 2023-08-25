@@ -6,4 +6,5 @@ func main() {
 	a := 2
 	a++
 	fmt.Println(a)
+	a++
 }
